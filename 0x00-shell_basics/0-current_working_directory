@@ -1,1 +1,2 @@
-echo "current_work_directory "pwd                                                                                                       
+#!/bin/bash                                                                                                      
+pwd
